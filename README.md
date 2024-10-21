@@ -56,7 +56,5 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot 2024-10-21 111559](https://github.com/user-attachments/assets/22d479ff-eed6-4305-b265-e6a836285903)
 
-**RESULT**
- Thus code run successfully
-
 **RESULTS**
+Thus code runs successfully
