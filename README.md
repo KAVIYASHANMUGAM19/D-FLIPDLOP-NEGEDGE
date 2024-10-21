@@ -46,6 +46,7 @@ Q <= 0;
 else
 
 Q <= D;
+
 endmodule
 
 
