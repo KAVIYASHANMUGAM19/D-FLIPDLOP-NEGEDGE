@@ -28,7 +28,6 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 
 **PROGRAM**
-
 ```
 module dflipflop(D,Clock,reset,Q);
 input D,reset,Clock;
@@ -40,7 +39,6 @@ else
 Q <= D;
 endmodule
 ```
-
 **RTL LOGIC FOR FLIPFLOPS**
 ![Screenshot 2024-10-21 111542](https://github.com/user-attachments/assets/1b92c2e6-ea37-444e-aad9-d94c4a3ad3d5)
 
